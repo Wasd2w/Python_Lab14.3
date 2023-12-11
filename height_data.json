@@ -1,0 +1,7 @@
+[
+    {"name": "Vlad", "height": 175, "gender": "male"},
+    {"name": "Alina", "height": 160, "gender": "female"},
+    {"name": "Kostya", "height": 182, "gender": "male"},
+    {"name": "Nastya", "height": 172, "gender": "female"},
+    {"name": "Oleg", "height": 192, "gender": "male"}
+]
